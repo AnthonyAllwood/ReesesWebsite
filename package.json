@@ -1,0 +1,19 @@
+{
+  "name": "reeseswebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyAllwood/ReesesWebsite.git"
+  },
+  "author": "Anthony Allwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyAllwood/ReesesWebsite/issues"
+  },
+  "homepage": "https://github.com/AnthonyAllwood/ReesesWebsite#readme"
+}
